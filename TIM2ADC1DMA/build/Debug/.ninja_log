@@ -1,0 +1,27 @@
+# ninja log v5
+23	1432	7548915343678516	CMakeFiles/TIM2ADC1DMA.dir/Core/Src/stm32f4xx_hal_msp.c.obj	42742eae5fc0d442
+21	1518	7548915344294383	CMakeFiles/TIM2ADC1DMA.dir/Core/Src/stm32f4xx_it.c.obj	754a07153aa3d19a
+17	1718	7548915346370452	CMakeFiles/TIM2ADC1DMA.dir/Core/Src/main.c.obj	f3034b34a8e7a3e4
+1719	2320	7548915352628447	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_ll_adc.c.obj	c097d18fe32bc86d
+1435	2622	7548915354833647	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc.c.obj	b7ab7ca67125efb4
+1519	2868	7548915356790521	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_adc_ex.c.obj	ff2b497ea7666990
+2320	3655	7548915365293458	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc.c.obj	84afe746fa340850
+2622	3932	7548915367101328	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_rcc_ex.c.obj	d4684edf9caf11f4
+2869	4854	7548915374491724	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash.c.obj	ae80e3e5cd208bc8
+3655	6636	7548915392610119	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ex.c.obj	94cb68ebea3c9201
+3933	7169	7548915397894657	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_flash_ramfunc.c.obj	d983959b335e9728
+4948	8133	7548915405781717	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_gpio.c.obj	71c3416f6a262af0
+6637	9290	7548915420224777	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma_ex.c.obj	4a47109e959653b9
+7170	10343	7548915430416384	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_dma.c.obj	9a2dabeab1a8000a
+8133	12056	7548915448554644	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr.c.obj	807f50bfb55b3b0f
+9290	12430	7548915452855802	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_pwr_ex.c.obj	d1cd6353457bf89
+10343	13571	7548915463206315	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_cortex.c.obj	8e4d2afbaddf7a0f
+12056	14057	7548915468371645	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal.c.obj	359ae5d382b35c07
+12430	14142	7548915468719308	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_exti.c.obj	2e3cca851b095586
+14142	17172	7548915499145103	CMakeFiles/TIM2ADC1DMA.dir/Core/Src/system_stm32f4xx.c.obj	30d88ef94e608bc
+14058	17801	7548915506654702	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim_ex.c.obj	18bd714a69987c10
+13571	18082	7548915509356572	CMakeFiles/TIM2ADC1DMA.dir/Drivers/STM32F4xx_HAL_Driver/Src/stm32f4xx_hal_tim.c.obj	77c63e08fda9dd97
+17172	18106	7548915510200902	CMakeFiles/TIM2ADC1DMA.dir/Core/Src/sysmem.c.obj	764b4be7ca56f04a
+18083	18533	7548915514184184	CMakeFiles/TIM2ADC1DMA.dir/startup_stm32f411xe.s.obj	225cf43ffbbbba0f
+17801	18698	7548915515972165	CMakeFiles/TIM2ADC1DMA.dir/Core/Src/syscalls.c.obj	5a35607d4d888ab8
+18700	19383	7548915523134099	TIM2ADC1DMA.elf	b78e180b48c71cdd
